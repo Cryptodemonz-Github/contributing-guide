@@ -59,7 +59,7 @@ For commit messages, we strongly advise using the semantic way. It is a standard
  `refactor: remove unused functions`
  `mixed: fix #0000 and add build script`
  
- *It is important to keep messages in present sense, for example `feat: added new layout` is bad, instead use `feat: add new layout`. Also it's important to keep messages very short. If there is anything that you want to describe, add comment to commit afterwards*
+ *It is important to keep messages in infinitive sense, for example `feat: added new layout` is bad, instead use `feat: add new layout`. Also it's important to keep messages very short. If there is anything that you want to describe, add comment to commit afterwards*
  
 ## How to write good PR
 
